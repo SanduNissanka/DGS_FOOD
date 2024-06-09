@@ -49,9 +49,11 @@ MySQL (version 5.x or higher)
 
 Acknowledgement
 
-G.P.B. Malalgoda(19APC3991)- Frontend,Backend,Database
-N.P.S.N. Nissanka(19APC4075)- Frontend,Backend,Database
-G.D.M. Munasinghe- Frontend,Backend,Database
+G.P.B. Malalgoda(19APC3991)- Backend for login, food, admin,order pages and Database creation
+
+N.P.S.N. Nissanka(19APC4075)- Frontend for available,categories,contact,order and index page
+
+G.D.M. Munasinghe-Backend for category page in admin section,index page and Database creation.
 
 
 
