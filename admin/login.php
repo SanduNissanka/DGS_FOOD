@@ -56,7 +56,7 @@
 </html>
 
 <?php
-/*   // check whether the submit button is clicked or not
+   // check whether the submit button is clicked or not
 
     if (isset($_POST['submit'])) 
     {
@@ -93,7 +93,7 @@
         }
     }
 
-*/
+/*
 
     // Check whether the submit button is clicked or not
     if (isset($_POST['submit'])) 
@@ -118,7 +118,7 @@
     }
 
 
-
+*/
 
 
 ?>
